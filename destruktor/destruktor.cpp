@@ -59,4 +59,4 @@ int main()
     delete ptrBelajarcpp;                   // Destructor Dipanggil
 
     return 0;
-} // Destructor Dipanggil
+} // Destructor Dipanggil 
